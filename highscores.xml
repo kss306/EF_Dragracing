@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <player>
-    <placement>1</placement>
+  <player1>
     <username>None</username>
     <time>8.09</time>
-  </player>
-  <player>
-    <placement>2</placement>
+  </player1>
+  <player2>
     <username>None</username>
     <time>8.09</time>
-  </player>
-  <player>
-    <placement>3</placement>
+  </player2>
+  <player3>
     <username>None</username>
     <time>8.09</time>
-  </player>
-  <player>
-    <placement>4</placement>
+  </player3>
+  <player4>
     <username>None</username>
     <time>8.09</time>
-  </player>
-  <player>
-    <placement>5</placement>
+  </player4>
+  <player5>
     <username>None</username>
     <time>8.09</time>
-  </player>
+  </player5>
 </item>
