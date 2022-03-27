@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <player1>
-    <username>hello guys!</username>
-    <time>1.09</time>
+    <username>NONE</username>
+    <time>0.0</time>
   </player1>
   <player2>
-    <username>Test2</username>
-    <time>82.09</time>
+    <username>NONE</username>
+    <time>0.0</time>
   </player2>
   <player3>
-    <username>Test3</username>
-    <time>3.09</time>
+    <username>NONE</username>
+    <time>0.0</time>
   </player3>
   <player4>
-    <username>Test4</username>
-    <time>4.09</time>
+    <username>NONE</username>
+    <time>0.0</time>
   </player4>
   <player5>
-    <username>Test5</username>
-    <time>5.09</time>
+    <username>NONE</username>
+    <time>0.0</time>
   </player5>
 </item>
