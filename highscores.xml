@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>0.1</version>
-  <url>https://www.nexusmods.com/mygarage/mods/19</url>
-  <changelog>First Release!</changelog>
+  <player>
+    <placement>1</placement>
+    <username>None</username>
+    <time>8.09</time>
+  </player>
+  <player>
+    <placement>2</placement>
+    <username>None</username>
+    <time>8.09</time>
+  </player>
+  <player>
+    <placement>3</placement>
+    <username>None</username>
+    <time>8.09</time>
+  </player>
+  <player>
+    <placement>4</placement>
+    <username>None</username>
+    <time>8.09</time>
+  </player>
+  <player>
+    <placement>5</placement>
+    <username>None</username>
+    <time>8.09</time>
+  </player>
 </item>
